@@ -1,1 +1,7 @@
-
+Bug fixes in progress
+Fixed crash on startup
+Resolved memory leak in executor
+Improved script execution speed
+Patched security vulnerabilities
+Fixed UI rendering issues
+Resolved compatibility with Windows 11
