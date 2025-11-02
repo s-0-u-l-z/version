@@ -1,1 +1,20 @@
-
+<div class="changelog-row1">
+    <div class="changelog-header">
+        <h5>v1.0.2 - Updated</h5>
+        <span class="new-badge">NEW</span>
+    </div>
+    <p class="p-header1">Module</p>
+    <p class="p-subtitle1">Updated to version-889d2588b25a43d1</p>
+</div>
+<div class="changelog-row2">
+    <h5>v1.0.1 - Fixes</h5>
+    <p class="p-header2">Interface</p>
+    <p class="p-subtitle2">Fixed UI issues on small screens.</p>
+    <p class="p-header2">Module</p>
+    <p class="p-subtitle2">Fixed a few crash-on-load bugs.</p>
+</div>
+<div class="changelog-row3">
+    <h5>v1.0.0 - Release</h5>
+    <p class="p-header3">Initial Release</p>
+    <p class="p-subtitle3">The first version of the software is now available.</p>
+</div>
