@@ -1,0 +1,20 @@
+[
+  {
+    "title": "v1.0.2 - Updated",
+    "description": "Module: Updated to version-889d2588b25a43d1 (Stable)",
+    "date": "11/5/2025",
+    "isNew": true
+  },
+  {
+    "title": "v1.0.2 Dev Update",
+    "description": "Only 1.0.2 Dev Updates: Minor pre-release fixes and optimizations.",
+    "date": "10/5/2025",
+    "isNew": false
+  },
+  {
+    "title": "v1.0.0 Dev Builds",
+    "description": "Initial Release: The first version of the software is now available. (Dev Builds)",
+    "date": "9/5/2025",
+    "isNew": false
+  }
+]
