@@ -1,14 +1,49 @@
 [
   {
-    "title": "Version 1.0.0 Release",
-    "description": "Releasing Venom :D",
-    "date": "2023-11-01",
-    "isNew": true
+    "version": "1.0.0",
+    "title": "Public Release",
+    "status": "R",
+    "description": "The first official stable release of the client. All core features are finalized and operational. Thank you for all the feedback during the testing period!",
+    "changes": []
   },
   {
-    "title": "Bug Fixes",
-    "description": "fixed an issue with the settings panel.",
-    "date": "2023-10-25",
-    "isNew": false
+    "version": "1.0.0-dev.2",
+    "title": "Pre-Release Build",
+    "status": "D2",
+    "description": "",
+    "changes": [
+      {
+        "type": "Added",
+        "detail": "Finalized settings panel UI and implemented dark theme toggles."
+      },
+      {
+        "type": "Fixed",
+        "detail": "Major memory leak in the AI component leading to performance stability."
+      },
+      {
+        "type": "Removed",
+        "detail": "Placeholder buttons from the 'Hub' container."
+      }
+    ]
+  },
+  {
+    "version": "1.0.0-dev.1",
+    "title": "Initial Build",
+    "status": "D1",
+    "description": "",
+    "changes": [
+      {
+        "type": "Feature",
+        "detail": "Implemented basic sidebar navigation and container switching logic."
+      },
+      {
+        "type": "Feature",
+        "detail": "Home and Code containers added with initial content placeholders."
+      },
+      {
+        "type": "Note",
+        "detail": "Implemented initial JSON fetching logic for version and status checks."
+      }
+    ]
   }
 ]
