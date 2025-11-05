@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Version 1.0.0 Release",
+    "description": "Releasing Venom :D",
+    "date": "2023-11-01",
+    "isNew": true
+  },
+  {
+    "title": "Bug Fixes",
+    "description": "fixed an issue with the settings panel.",
+    "date": "2023-10-25",
+    "isNew": false
+  }
+]
