@@ -1,5 +1,6 @@
 {
-  "hsb": "Client Build Status: Stable",
+  "ver": "1.0.0",
+  "hsb": "Say Hi :D",
   "csb": "Release Notes for Current Version",
   "fxs": [
     "Stuff fixed",
