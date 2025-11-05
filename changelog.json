@@ -1,20 +1,36 @@
 [
   {
     "title": "v1.0.2 - Updated",
-    "description": "Module: Updated to version-889d2588b25a43d1 (Stable)",
-    "date": "11/5/2025",
-    "isNew": true
+    "isNew": true,
+    "details": [
+      {
+        "header": "Module",
+        "subtitle": "Updated to version-889d2588b25a43d1"
+      }
+    ]
   },
   {
-    "title": "v1.0.2 Dev Update",
-    "description": "Only 1.0.2 Dev Updates: Minor pre-release fixes and optimizations.",
-    "date": "10/5/2025",
-    "isNew": false
+    "title": "v1.0.1 - Fixes",
+    "isNew": false,
+    "details": [
+      {
+        "header": "Interface",
+        "subtitle": "Fixed UI issues on small screens."
+      },
+      {
+        "header": "Module",
+        "subtitle": "Fixed a few crash-on-load bugs."
+      }
+    ]
   },
   {
-    "title": "v1.0.0 Dev Builds",
-    "description": "Initial Release: The first version of the software is now available. (Dev Builds)",
-    "date": "9/5/2025",
-    "isNew": false
+    "title": "v1.0.0 - Release",
+    "isNew": false,
+    "details": [
+      {
+        "header": "Initial Release",
+        "subtitle": "The first version of the software is now available."
+      }
+    ]
   }
 ]
